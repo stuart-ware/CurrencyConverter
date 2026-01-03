@@ -1,9 +1,9 @@
-package main;
+package com.currencyconverter.main;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-import stringmanipulation.JSONManipulation;
+import com.currencyconverter.stringmanipulation.JSONManipulation;
 
 public class Methods {
 	

@@ -1,4 +1,4 @@
-package models;
+package com.currencyconverter.models;
 
 import com.google.gson.annotations.SerializedName;
 

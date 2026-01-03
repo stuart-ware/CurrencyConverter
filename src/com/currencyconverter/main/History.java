@@ -1,4 +1,4 @@
-package main;
+package com.currencyconverter.main;
 
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-import stringmanipulation.JSONManipulation;
+import com.currencyconverter.stringmanipulation.JSONManipulation;
 
 public class History 
 {

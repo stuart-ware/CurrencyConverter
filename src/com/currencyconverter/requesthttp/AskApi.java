@@ -1,4 +1,4 @@
-package requesthttp;
+package com.currencyconverter.requesthttp;
 
 import java.io.IOException;
 import java.net.URI;

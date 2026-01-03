@@ -1,4 +1,4 @@
-package main;
+package com.currencyconverter.main;
 
 
 import java.io.IOException;

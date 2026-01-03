@@ -1,10 +1,10 @@
-package stringmanipulation;
+package com.currencyconverter.stringmanipulation;
 
-import models.Conversion;
+import com.google.gson.GsonBuilder;
+import com.currencyconverter.models.Conversion;
+import com.currencyconverter.requesthttp.AskApi;
 import com.google.gson.Gson;
 import java.io.IOException;
-import com.google.gson.GsonBuilder;
-import requesthttp.AskApi;
 
 public class JSONManipulation {
 	

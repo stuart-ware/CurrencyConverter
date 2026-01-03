@@ -1,4 +1,4 @@
-package models;
+package com.currencyconverter.models;
 
 public record Currency(
 		String cur1,
